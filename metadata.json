@@ -1,0 +1,6 @@
+{
+  "name": "Auto PR — AI Reasoning Engine",
+  "description": "Autonomous software-engineering AI reasoning layer for work item understanding, context compilation, and validation failure debugging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
